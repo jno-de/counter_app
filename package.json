@@ -3,7 +3,7 @@
   "description": "Webcomponent counter-app following hax / open-wc recommendations",
   "license": "Apache-2.0",
   "author": "jno-de",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "start": "web-dev-server",
